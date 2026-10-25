@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "name": "Aegis Multi-Profile Browser v0.1.0",
+  "notes": "- Bản phát hành thương mại chính thức Aegis Multi-Profile Antidetect Browser\n- Hỗ trợ kiến trúc Lõi kép Chromium & Camoufox Gecko\n- Cô lập Fingerprint, WebRTC Shield, Proxy Tunnel & Kho 2FA TOTP\n- Tích hợp sẵn tiện ích mở rộng Urban VPN & RPA Studio\n- Hỗ trợ bộ cài đặt 1-Click (.exe) và bản Portable (.zip)",
+  "pub_date": "2026-10-25T15:30:00Z",
+  "download_url": "https://github.com/huymanhmmo/aegis-browser-releases/releases/download/v0.1.0/AegisBrowser_Setup_v0.1.0.exe",
+  "portable_url": "https://github.com/huymanhmmo/aegis-browser-releases/releases/download/v0.1.0/AegisBrowser_v0.1.0_Windows_x64.zip",
+  "mirror_download_url": "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.1.0.exe",
+  "mirror_portable_url": "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.1.0_Windows_x64.zip",
+  "sha256_setup": "B5D7FD2DCC190596140902ED874BE2E17CDA3E9286D86272B2E925B4B0FA5697",
+  "sha256_portable": "A7E1B7BB72DCD4607DE6DE3BF70302CA949249F12758C997F5145D57A2C68937",
+  "force_update": false,
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/huymanhmmo/aegis-browser-releases/releases/download/v0.1.0/AegisBrowser_Setup_v0.1.0.exe",
+      "portable_url": "https://github.com/huymanhmmo/aegis-browser-releases/releases/download/v0.1.0/AegisBrowser_v0.1.0_Windows_x64.zip"
+    }
+  }
+}
