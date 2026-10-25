@@ -1,19 +1,19 @@
-﻿{
-    "pub_date":  "2026-10-25T18:20:41Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "url":  "https://github.com/huymanhmmo/aegis-browser-releases/releases/download/v0.2.0/AegisBrowser_Setup_v0.2.0.exe",
-                                             "portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/releases/download/v0.2.0/AegisBrowser_v0.2.0_Windows_x64.zip"
-                                         }
-                  },
-    "sha256_portable":  "E7E4BAA2AF0841F96B131FD5FBA8773E9C0AEB6323CC919A90A38C52C09A7B7C",
-    "version":  "0.2.0",
-    "notes":  "- Nang cap kien truc Loi kep Dual-Engine (Chromium v134 \u0026 Camoufox Gecko v136)\n- Tich hop Live Proxy Forwarder Loopback Fail-Closed cach ly tuyet doi\n- Ho tro kho ma nguon Sim OTP tu dong (IronSim, ChoThueSimCode, ViOTP)\n- Ho tro dong bo tai khoan Webshare API v2 linh hoat\n- Trang chao mung Welcome Portal \u0026 He thong xac thuc cuc bo AES-256 GCM\n- Tu dong dong bo trang thai chay/dung theo thoi gian thuc va Safe Shutdown\n- Tich hop kenh cap nhat tu dong chinh thuc qua Public Releases Repository",
-    "download_url":  "https://github.com/huymanhmmo/aegis-browser-releases/releases/download/v0.2.0/AegisBrowser_Setup_v0.2.0.exe",
-    "name":  "Aegis Multi-Profile Browser v0.2.0",
-    "mirror_download_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.2.0.exe",
-    "sha256_setup":  "402F15404A7192E935D1AEFC2848DD0ADD0E38659248C2B8FA63CD84358EDFF7",
-    "portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/releases/download/v0.2.0/AegisBrowser_v0.2.0_Windows_x64.zip",
-    "force_update":  false,
-    "mirror_portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.2.0_Windows_x64.zip"
+{
+    "pub_date": "2026-10-26T01:30:00Z",
+    "platforms": {
+        "windows-x86_64": {
+            "url": "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.3.0.exe",
+            "portable_url": "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.3.0_Windows_x64.zip"
+        }
+    },
+    "sha256_portable": "E7E4BAA2AF0841F96B131FD5FBA8773E9C0AEB6323CC919A90A38C52C09A7B7C",
+    "version": "0.3.0",
+    "notes": "- [MỚI] Nâng cấp hệ thống Tự động cập nhật phiên bản 1-Click thông minh\n- [MỚI] Tối ưu hóa hiệu năng Lõi kép Dual-Engine Chromium v134 & Gecko Camoufox v136\n- [MỚI] Cải tiến tính năng cách ly dấu vân tay số và chống rò rỉ WebRTC\n- [MỚI] Bổ sung trung tâm thuê SIM OTP nhận code tự động cho tài khoản MMO\n- [VÁ LỖI] Vá các lỗi kết nối proxy và tối ưu giao diện trực quan hơn",
+    "download_url": "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.3.0.exe",
+    "name": "Aegis Multi-Profile Browser v0.3.0 (Bản Phát Hành Mới)",
+    "mirror_download_url": "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.3.0.exe",
+    "sha256_setup": "402F15404A7192E935D1AEFC2848DD0ADD0E38659248C2B8FA63CD84358EDFF7",
+    "portable_url": "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.3.0_Windows_x64.zip",
+    "force_update": false,
+    "mirror_portable_url": "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.3.0_Windows_x64.zip"
 }
