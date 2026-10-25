@@ -13,8 +13,8 @@
 
 | Phiên bản | Định dạng | Dung lượng | Tải xuống |
 | :--- | :---: | :---: | :--- |
-| **Bản Cài Đặt 1-Click (Khuyên dùng)** | `.exe` Installer | ~9.5 MB | [⬇️ Tải AegisBrowser_Setup_v0.1.0.exe](https://github.com/huymanhmmo/aegis-browser-releases/releases/download/v0.1.0/AegisBrowser_Setup_v0.1.0.exe) |
-| **Bản Di Động Portable (Không cần cài đặt)** | `.zip` Archive | ~17.6 MB | [⬇️ Tải AegisBrowser_v0.1.0_Windows_x64.zip](https://github.com/huymanhmmo/aegis-browser-releases/releases/download/v0.1.0/AegisBrowser_v0.1.0_Windows_x64.zip) |
+| **Bản Cài Đặt 1-Click (Khuyên dùng)** | `.exe` Installer | ~10.5 MB | [⬇️ Tải AegisBrowser_Setup_v0.1.0.exe](https://github.com/huymanhmmo/aegis-browser-releases/releases/download/v0.1.0/AegisBrowser_Setup_v0.1.0.exe) |
+| **Bản Di Động Portable (Không cần cài đặt)** | `.zip` Archive | ~17.8 MB | [⬇️ Tải AegisBrowser_v0.1.0_Windows_x64.zip](https://github.com/huymanhmmo/aegis-browser-releases/releases/download/v0.1.0/AegisBrowser_v0.1.0_Windows_x64.zip) |
 
 *Gương tải dự phòng (Mirror Download nếu Release đang cập nhật):*
 - [Tải Bộ cài đặt (.EXE) qua Mirror](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.1.0.exe)
@@ -29,6 +29,7 @@
 - **WebRTC Shield & Proxy Loopback Tunnel**: Chống rò rỉ IP thật 100%, hỗ trợ HTTP, SOCKS5, SSH Proxy riêng biệt theo từng hồ sơ.
 - **Bảo mật 2FA Authenticator tích hợp**: Quản lý mã OTP 6 số trực tiếp trong từng profile, không cần mở điện thoại.
 - **Tiện ích mở rộng đóng gói sẵn**: Tích hợp sẵn VPN thương mại và Studio kịch bản tự động hóa RPA.
+- **Zero Prerequisites**: Đóng gói sẵn toàn bộ Runtime Dependencies (`libunwind.dll`, `WebView2Loader.dll`), khởi chạy độc lập trên mọi máy Windows 10/11 mà không cần cài thêm bất kỳ môi trường phát triển nào.
 
 ---
 
@@ -52,10 +53,10 @@
 
 ```text
 AegisBrowser_Setup_v0.1.0.exe:
-B5D7FD2DCC190596140902ED874BE2E17CDA3E9286D86272B2E925B4B0FA5697
+34ABBD0AC407C8CB2DE1924BBBB5AA217166C729990935E9642E92A84CD54596
 
 AegisBrowser_v0.1.0_Windows_x64.zip:
-A7E1B7BB72DCD4607DE6DE3BF70302CA949249F12758C997F5145D57A2C68937
+7D4C3E706197B0C3104054F217EE201C1E285849810F0E970F32BEC9497AF692
 ```
 
 *(Cách kiểm tra trên Windows PowerShell: `Get-FileHash -Algorithm SHA256 <Tên_File>`)*
