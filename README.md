@@ -1,6 +1,6 @@
 # Aegis Multi-Profile Antidetect Browser ðŸ›¡ï¸
 
-[![Release](https://img.shields.io/badge/Release-v0.5.0-brightgreen.svg?style=flat-square)](https://github.com/huymanhmmo/aegis-browser-releases/releases)
+[![Release](https://img.shields.io/badge/Release-v0.6.0-brightgreen.svg?style=flat-square)](https://github.com/huymanhmmo/aegis-browser-releases/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-blue.svg?style=flat-square)](https://github.com/huymanhmmo/aegis-browser-releases)
 [![Security](https://img.shields.io/badge/Security-Authenticode%20Verified-success.svg?style=flat-square)](https://github.com/huymanhmmo/aegis-browser-releases)
 [![License](https://img.shields.io/badge/License-Commercial%20Distribution-orange.svg?style=flat-square)](https://github.com/huymanhmmo/aegis-browser-releases)
@@ -9,21 +9,24 @@
 
 ---
 
-## ðŸ“¥ Táº£i Vá» Trá»±c Tiáº¿p (Download Links) - Version 0.5.0
+## ðŸ“¥ Táº£i Vá» Trá»±c Tiáº¿p (Download Links) - Version 0.6.0
 
 | PhiÃªn báº£n | Äá»‹nh dáº¡ng | Dung lÆ°á»£ng | Táº£i xuá»‘ng |
 | :--- | :---: | :---: | :--- |
-| **Báº£n CÃ i Äáº·t 1-Click (KhuyÃªn dÃ¹ng)** | .exe Installer | ~9.17 MB | [â¬‡ï¸ Táº£i AegisBrowser_Setup_v0.5.0.exe](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe) |
-| **Báº£n Di Äá»™ng Portable (KhÃ´ng cáº§n cÃ i Ä‘áº·t)** | .zip Archive | ~26.69 MB | [â¬‡ï¸ Táº£i AegisBrowser_v0.5.0_Windows_x64.zip](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip) |
+| **Báº£n CÃ i Äáº·t 1-Click (KhuyÃªn dÃ¹ng)** | .exe Installer | ~9.18 MB | [â¬‡ï¸ Táº£i AegisBrowser_Setup_v0.6.0.exe](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.6.0.exe) |
+| **Báº£n Di Äá»™ng Portable (KhÃ´ng cáº§n cÃ i Ä‘áº·t)** | .zip Archive | ~26.69 MB | [â¬‡ï¸ Táº£i AegisBrowser_v0.6.0_Windows_x64.zip](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.6.0_Windows_x64.zip) |
 
 *GÆ°Æ¡ng táº£i dá»± phÃ²ng (Mirror Download):*
-- [Táº£i Bá»™ cÃ i Ä‘áº·t (.EXE) qua Mirror](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe)
-- [Táº£i Báº£n Portable (.ZIP) qua Mirror](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip)
+- [Táº£i Bá»™ cÃ i Ä‘áº·t (.EXE) qua Mirror](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.6.0.exe)
+- [Táº£i Báº£n Portable (.ZIP) qua Mirror](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.6.0_Windows_x64.zip)
 
 ---
 
-## ðŸŒŸ TÃ­nh NÄƒng Má»›i TrÃªn Báº£n v0.5.0
+## ðŸŒŸ TÃ­nh NÄƒng Má»›i TrÃªn Báº£n v0.6.0 (Báº£n v6)
 
+- **Nháº­n diá»‡n thÆ°Æ¡ng hiá»‡u Mipaxo**: Giao diá»‡n thiáº¿t káº¿ má»›i, hiá»‡n Ä‘áº¡i, tá»‘i Æ°u tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng vá»›i há»‡ thá»‘ng thÆ°Æ¡ng hiá»‡u Mipaxo.
+- **Há»‡ thá»‘ng thanh toÃ¡n & NÃ¢ng cáº¥p gÃ³i**: TÃ­ch há»£p thanh toÃ¡n quÃ©t mÃ£ QR VietQR, quáº£n trá»‹ duyá»‡t yÃªu cáº§u thanh toÃ¡n tá»± Ä‘á»™ng kÃ­ch hoáº¡t gÃ³i sá»­ dá»¥ng.
+- **NÃºt Backtest trá»±c tiáº¿p trÃªn thanh cÃ´ng cá»¥**: Kiá»ƒm tra nhanh tÃ­nh toÃ n váº¹n há»‡ thá»‘ng vÃ  runtime chá»‰ vá»›i 1 click.
 - **Báº£o máº­t phiÃªn lÃ m viá»‡c**: Quáº£n lÃ½ phiÃªn lÃ m viá»‡c backend an toÃ n vÃ  cÃ´ng cá»¥ khÃ´i phá»¥c quáº£n trá»‹ viÃªn local báº£o máº­t cao.
 - **Audit Log hoáº¡t Ä‘á»™ng**: Theo dÃµi chi tiáº¿t má»i thao tÃ¡c cáº¥u hÃ¬nh, gÃ¡n proxy vÃ  khá»Ÿi cháº¡y há»“ sÆ¡.
 - **Báº£o vá»‡ Loopback Proxy**: Gia cá»‘ an toÃ n tuyá»‡t Ä‘á»‘i cho Ä‘Æ°á»ng háº§m proxy cá»¥c bá»™ vÃ  ngÄƒn cháº·n rÃ² rá»‰ WebRTC.
@@ -54,11 +57,11 @@
 Äá»ƒ Ä‘áº£m báº£o file táº£i vá» khÃ´ng bá»‹ giáº£ máº¡o hoáº·c lá»—i trong quÃ¡ trÃ¬nh truyá»n táº£i, quÃ½ khÃ¡ch cÃ³ thá»ƒ kiá»ƒm tra mÃ£ bÄƒm SHA-256:
 
 `	ext
-AegisBrowser_Setup_v0.5.0.exe:
-0D8AA27DDFF7769EDE939172AD77EC2B1D666BF15151AFCC0C2EF86EEF22C28C
+AegisBrowser_Setup_v0.6.0.exe:
+C28B7569B40BF4BA254C959AAEEE39D3F9054A25C5D1FFD132503DF71F4F58D1
 
-AegisBrowser_v0.5.0_Windows_x64.zip:
-0DCC0CE33E4FA22A1E79B0F08AB4B7CEEED05B22EE19F5D34F5E83BB7625E78B
+AegisBrowser_v0.6.0_Windows_x64.zip:
+9A731A13F9ECCF06F3184B9C9E577D30D3E4DADB5CF4F21EB5B6EB7E0AB34E2C
 `
 
 *(CÃ¡ch kiá»ƒm tra trÃªn Windows PowerShell: Get-FileHash -Algorithm SHA256 <TÃªn_File>)*

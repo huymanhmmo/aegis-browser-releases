@@ -1,19 +1,19 @@
 {
-    "pub_date":  "2026-10-26T10:42:43Z",
+    "pub_date":  "2026-10-26T11:59:06Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe",
-                                             "portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip"
+                                             "url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.6.0.exe",
+                                             "portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.6.0_Windows_x64.zip"
                                          }
                   },
-    "sha256_portable":  "0DCC0CE33E4FA22A1E79B0F08AB4B7CEEED05B22EE19F5D34F5E83BB7625E78B",
-    "version":  "0.5.0",
-    "notes":  "- [SECURITY] Enhanced session authentication and direct local admin recovery tool\n- [AUDIT] Comprehensive profile action logs and configuration audit trail\n- [NETWORK] Hardened loopback proxy defense and internal endpoint protection\n- [PERFORMANCE] Dual-engine Chromium v134 and Camoufox v136 with optimized launch speed\n- [INSTALLER] Production 1-Click installer with Authenticode signature and smooth auto-updater",
-    "download_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe",
-    "name":  "Aegis Multi-Profile Browser v0.5.0 (Official Release)",
-    "mirror_download_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe",
-    "sha256_setup":  "0D8AA27DDFF7769EDE939172AD77EC2B1D666BF15151AFCC0C2EF86EEF22C28C",
-    "portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip",
+    "sha256_portable":  "9A731A13F9ECCF06F3184B9C9E577D30D3E4DADB5CF4F21EB5B6EB7E0AB34E2C",
+    "version":  "0.6.0",
+    "notes":  "- [MIPAXO BRAND] Rebranded to Mipaxo Antidetect Browser v6 (v0.6.0)\n- [PAYMENTS] Payment requests system, QR bank transfer and automated upgrade activation\n- [TEST TOOLBAR] In-app direct runtime backtest action button\n- [SECURITY] Hardened local admin recovery, session management and loopback proxy defense",
+    "download_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.6.0.exe",
+    "name":  "Mipaxo Antidetect Browser v0.6.0 (Release v6)",
+    "mirror_download_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.6.0.exe",
+    "sha256_setup":  "C28B7569B40BF4BA254C959AAEEE39D3F9054A25C5D1FFD132503DF71F4F58D1",
+    "portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.6.0_Windows_x64.zip",
     "force_update":  false,
-    "mirror_portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip"
+    "mirror_portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.6.0_Windows_x64.zip"
 }
