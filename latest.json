@@ -1,19 +1,19 @@
-﻿{
-    "pub_date":  "2026-10-25T19:52:38Z",
+{
+    "pub_date":  "2026-10-26T03:13:33Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.4.0.exe",
-                                             "portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.4.0_Windows_x64.zip"
+                                             "url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe",
+                                             "portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip"
                                          }
                   },
-    "sha256_portable":  "751538A53FCE12787A8D9EAEE92B26CC703CCF1FBC2A9A31729B44BB37C92947",
-    "version":  "0.4.0",
-    "notes":  "- [Má»šI] Tá»‘i Æ°u hÃ³a há»‡ thá»‘ng Tá»± Ä‘á»™ng cáº­p nháº­t phiÃªn báº£n 1-Click thÃ´ng minh\n- [Má»šI] NÃ¢ng cáº¥p hiá»‡u nÄƒng LÃµi kÃ©p Dual-Engine Chromium v134 \u0026 Gecko Camoufox v136\n- [Má»šI] Cáº£i tiáº¿n tÃ­nh nÄƒng cÃ¡ch ly dáº¥u vÃ¢n tay sá»‘ vÃ  chá»‘ng rÃ² rá»‰ WebRTC\n- [Má»šI] Bá»• sung trung tÃ¢m thuÃª SIM OTP nháº­n code tá»± Ä‘á»™ng cho tÃ i khoáº£n MMO\n- [VÃ Lá»–I] VÃ¡ cÃ¡c lá»—i káº¿t ná»‘i proxy vÃ  tá»‘i Æ°u giao diá»‡n trá»±c quan hÆ¡n",
-    "download_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.4.0.exe",
-    "name":  "Aegis Multi-Profile Browser v0.4.0 (Báº£n PhÃ¡t HÃ nh Má»›i)",
-    "mirror_download_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.4.0.exe",
-    "sha256_setup":  "03DD4D82DC90A577BA1D01260248E5D5DFB507F358626DAE00B9974DA5F2E37B",
-    "portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.4.0_Windows_x64.zip",
+    "sha256_portable":  "DDAE401D8845481D467920977146A1CF784EF1DBF2BBCBA78D970E9AD53D6C9E",
+    "version":  "0.5.0",
+    "notes":  "- [SECURITY] Enhanced session authentication and direct local admin recovery tool\n- [AUDIT] Comprehensive profile action logs and configuration audit trail\n- [NETWORK] Hardened loopback proxy defense and internal endpoint protection\n- [PERFORMANCE] Dual-engine Chromium v134 and Camoufox v136 with optimized launch speed\n- [INSTALLER] Production 1-Click installer with Authenticode signature and smooth auto-updater",
+    "download_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe",
+    "name":  "Aegis Multi-Profile Browser v0.5.0 (Official Release)",
+    "mirror_download_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe",
+    "sha256_setup":  "6497164AE58A5A6923889157D8934C88F06CFCC5EE02940BB9301F4FE762DCB7",
+    "portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip",
     "force_update":  false,
-    "mirror_portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.4.0_Windows_x64.zip"
+    "mirror_portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip"
 }
