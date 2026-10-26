@@ -1,18 +1,18 @@
 {
-    "pub_date":  "2026-10-26T09:53:19Z",
+    "pub_date":  "2026-10-26T10:42:43Z",
     "platforms":  {
                       "windows-x86_64":  {
                                              "url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe",
                                              "portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip"
                                          }
                   },
-    "sha256_portable":  "63135C3FEB61BD312BB3771DE83517F2EBF7808A0B395DE1D07AE986B8AD57EA",
+    "sha256_portable":  "0DCC0CE33E4FA22A1E79B0F08AB4B7CEEED05B22EE19F5D34F5E83BB7625E78B",
     "version":  "0.5.0",
     "notes":  "- [SECURITY] Enhanced session authentication and direct local admin recovery tool\n- [AUDIT] Comprehensive profile action logs and configuration audit trail\n- [NETWORK] Hardened loopback proxy defense and internal endpoint protection\n- [PERFORMANCE] Dual-engine Chromium v134 and Camoufox v136 with optimized launch speed\n- [INSTALLER] Production 1-Click installer with Authenticode signature and smooth auto-updater",
     "download_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe",
     "name":  "Aegis Multi-Profile Browser v0.5.0 (Official Release)",
     "mirror_download_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe",
-    "sha256_setup":  "CB116DDED2256A42E81C9BE127F4AA629D1184D74D9053CADC525D251E93B8EA",
+    "sha256_setup":  "0D8AA27DDFF7769EDE939172AD77EC2B1D666BF15151AFCC0C2EF86EEF22C28C",
     "portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip",
     "force_update":  false,
     "mirror_portable_url":  "https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip"

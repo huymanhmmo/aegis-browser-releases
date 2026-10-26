@@ -13,8 +13,8 @@
 
 | PhiÃªn báº£n | Äá»‹nh dáº¡ng | Dung lÆ°á»£ng | Táº£i xuá»‘ng |
 | :--- | :---: | :---: | :--- |
-| **Báº£n CÃ i Äáº·t 1-Click (KhuyÃªn dÃ¹ng)** | .exe Installer | ~8.22 MB | [â¬‡ï¸ Táº£i AegisBrowser_Setup_v0.5.0.exe](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe) |
-| **Báº£n Di Äá»™ng Portable (KhÃ´ng cáº§n cÃ i Ä‘áº·t)** | .zip Archive | ~24.03 MB | [â¬‡ï¸ Táº£i AegisBrowser_v0.5.0_Windows_x64.zip](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip) |
+| **Báº£n CÃ i Äáº·t 1-Click (KhuyÃªn dÃ¹ng)** | .exe Installer | ~9.17 MB | [â¬‡ï¸ Táº£i AegisBrowser_Setup_v0.5.0.exe](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe) |
+| **Báº£n Di Äá»™ng Portable (KhÃ´ng cáº§n cÃ i Ä‘áº·t)** | .zip Archive | ~26.69 MB | [â¬‡ï¸ Táº£i AegisBrowser_v0.5.0_Windows_x64.zip](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_v0.5.0_Windows_x64.zip) |
 
 *GÆ°Æ¡ng táº£i dá»± phÃ²ng (Mirror Download):*
 - [Táº£i Bá»™ cÃ i Ä‘áº·t (.EXE) qua Mirror](https://github.com/huymanhmmo/aegis-browser-releases/raw/main/downloads/AegisBrowser_Setup_v0.5.0.exe)
@@ -55,10 +55,10 @@
 
 `	ext
 AegisBrowser_Setup_v0.5.0.exe:
-CB116DDED2256A42E81C9BE127F4AA629D1184D74D9053CADC525D251E93B8EA
+0D8AA27DDFF7769EDE939172AD77EC2B1D666BF15151AFCC0C2EF86EEF22C28C
 
 AegisBrowser_v0.5.0_Windows_x64.zip:
-63135C3FEB61BD312BB3771DE83517F2EBF7808A0B395DE1D07AE986B8AD57EA
+0DCC0CE33E4FA22A1E79B0F08AB4B7CEEED05B22EE19F5D34F5E83BB7625E78B
 `
 
 *(CÃ¡ch kiá»ƒm tra trÃªn Windows PowerShell: Get-FileHash -Algorithm SHA256 <TÃªn_File>)*
